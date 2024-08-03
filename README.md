@@ -1,8 +1,19 @@
 # Hi there 👋
 
-I am Pavol Mihálik, also known as YYYYOINKER. I am passionate about various aspects of software development and always eager to learn and explore new technologies.
+## Give Up GitHub
+(support [Forgejo](https://codeberg.org/forgejo/), [ForgeFed](https://forgefed.peers.community/), and [ForgeFriends](https://forgefriends.org/) instead)
+
+![Forgejo](URL_TO_FORGEJO_LOGO) ![ForgeFed](URL_TO_FORGEFED_LOGO) ![ForgeFriends](URL_TO_FORGEFRIENDS_LOGO)
 
 ## About Me
-- 💻 I am particularly interested in low-level programming, delving into the intricacies of computer architecture and system-level programming.
-- 📐 Mathematical programming is another area that fascinates me, especially how mathematical concepts can be applied to solve complex computational problems.
-- 🎮 Game development is a field I actively engage in, creating engaging and interactive experiences using various game engines and tools.
+Let's see what happens.
+
+## Contact
+- 🌐 Website: [wip]()
+- 💬 Discord: YYYYOINKER
+- 📚 Stack Overflow: [Profile](https://stackoverflow.com/users/24839885/yyyyoinker)
+- 💡 LeetCode: [Profile](https://leetcode.com/u/YYYOINKER/)
+- 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YYYOINKER&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YYYOINKER&layout=compact&theme=dark)
