@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-Let's see what happens.
+I use arch btw.
 
 ## Contact
 - 🌐 Website: [wip]()
