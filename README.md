@@ -1,7 +1,7 @@
-# Hi there 👋
+#  Hello 👋
 
 ## About Me
-I use arch btw.
+I use arch 🐧 btw.
 
 ## Contact
 - 🌐 Website: [wip]()
