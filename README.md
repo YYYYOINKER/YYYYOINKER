@@ -1,7 +1,7 @@
 #  Hello 👋
 **Welcome to my GitHub profile!** I'm a passionate developer and an Arch Linux enthusiast.
 
-![YYYYOINKER's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YYYYOINKER&show_icons=true&theme=cobalt)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YYYYOINKER&theme=vue-dark&border_radius=15&date_format=j%20M%5B%20Y%5D&background=45%2C0d4b4b%2C000000)](https://git.io/streak-stats)
 
 ## About Me
 
