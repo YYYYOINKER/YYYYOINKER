@@ -3,8 +3,7 @@
 ## About Me
 I use Arch 🐧 btw.
 
-![Your GitHub Stats](https://your-stats-tool-url/api?username=YYYYOINKER&show_icons=true&hide=grade)
-
+![YYYYOINKER's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YYYYOINKER&show_icons=true&theme=radical&hide=contribs)
 
 ## Contact
 - 🌐 Website: [WIP]()
