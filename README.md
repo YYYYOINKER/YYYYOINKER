@@ -3,7 +3,7 @@
 ## About Me
 I use Arch 🐧 btw.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YYYYOINKER&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YYYYOINKER&theme=radical)
 
 ## Contact
 - 🌐 Website: [WIP]()
