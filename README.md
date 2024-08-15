@@ -1,6 +1,8 @@
 #  Hello 👋
 **Welcome to my GitHub profile!** I'm a passionate developer and an Arch Linux enthusiast.
 
+![YYYYOINKER's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YYYYOINKER&show_icons=true&theme=cobalt)
+
 ## About Me
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
