@@ -3,7 +3,7 @@
 ## About Me
 I use Arch 🐧 btw.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YYYYOINKER&theme=radical)
+![GitHub Profile Summary](https://profile-summary-for-github.com/user/YYYYOINKER)
 
 ## Contact
 - 🌐 Website: [WIP]()
