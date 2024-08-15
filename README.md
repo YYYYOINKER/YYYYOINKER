@@ -7,7 +7,7 @@
 
 ## Contact
 
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_LINK)
+- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YYYYOINKER) 
 - 🌐 Website: [WIP]()
 - 📚 Stack Overflow: [Profile](https://stackoverflow.com/users/24839885/yyyyoinker)
 - 💡 LeetCode: [Profile](https://leetcode.com/u/YYYOINKER/)
