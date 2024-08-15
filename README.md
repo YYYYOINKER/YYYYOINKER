@@ -3,6 +3,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YYYYOINKER&theme=vue-dark&border_radius=15&date_format=j%20M%5B%20Y%5D&background=45%2C0d4b4b%2C000000)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YYYYOINKER&theme=vue-dark&border_radius=15&date_format=j%20M%5B%20Y%5D&background=45%2C42b883%2C35495e%2C1d2b36)](https://git.io/streak-stats)
+
 ## About Me
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
