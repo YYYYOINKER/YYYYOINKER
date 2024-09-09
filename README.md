@@ -1,5 +1,5 @@
 #  Hello 👋
-**Welcome to my GitHub profile!** I'm a passionate developer and an Arch Linux enthusiast.
+**Welcome to my GitHub profile!** I'm a passionate developer and a Physics enthusiast.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YYYYOINKER&theme=vue-dark&border_radius=15&date_format=j%20M%5B%20Y%5D&background=45%2C0d4b4b%2C000000)](https://git.io/streak-stats)
 
